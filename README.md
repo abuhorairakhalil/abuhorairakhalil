@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abuhorairakhalil
+- 👋 Hi, I’m @abuhorairakhalil 'AK'
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android Developement
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me find yourself
+- 💞️ I’m looking to collaborate on 'Nothing'
+- 📫 How to reach me 'Find Yourself'
 
 <!---
 abuhorairakhalil/abuhorairakhalil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
